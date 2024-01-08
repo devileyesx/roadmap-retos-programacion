@@ -1,0 +1,24 @@
+// URL: https://kotlinlang.org/
+
+//Creation of a comment
+    /*
+    *Creation of several comments
+    */
+// Variable:
+var developerName = "Benjamin"
+val developerAge =  16
+var langName = "Kotlin"
+
+var myFloat = 99.00f
+var myString = "Good afternoon!"
+var myDouble = 99.00
+var myBool = true
+var myInt = 1
+
+fun printOnConsole(){
+    println("Hello, $langName!")
+}
+
+fun printCredentials(){
+    println("Hello my name's $developerName and I'm $developerAge years old!")
+}
